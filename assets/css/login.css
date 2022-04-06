@@ -1,0 +1,112 @@
+html{
+    min-height: 100%;
+}
+
+body#login{
+    background-image: url(../images/login_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 700px;
+    height: 100vh;
+    background: rgb(173,211,255);
+    background: linear-gradient(180deg, rgba(173,211,255,1) 0%, rgba(255,255,255,1) 100%);
+    box-shadow: 7px 0px 15px #3E3E3E69;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* #logo{
+    position: absolute;
+    top: 100px;
+    width: 180px;
+} */
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 38px;
+    margin-bottom: 35px;
+}
+
+.form{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px 0px;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px 0px;
+}
+
+.field label{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.field input[type="text"],[type="password"]{
+    width: 350px;
+    height: 50px;
+    background-color: #0f003d;
+    border: 3px solid #0F003D;
+    border-radius: 6px;
+    padding: 5px 20px 5px 20px;
+    color: #FFFFFF;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    outline: 0px;
+    transition: 0.1s ease-in;
+}
+
+.field input[type="text"]:focus,input[type="password"]:focus{
+    background-color: #FFFFFF;
+    color:#0F003D;
+    box-shadow: 0 0 8px #0F003D;
+}
+
+.submit input[type="submit"]{
+    width: 350px;
+    height: 50px;
+    border: 0;
+    border-radius: 6px;
+    background-color: #0F003D;
+    color: #FFFFFF;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.submit input[type="submit"]:active{
+    box-shadow: 0 0 8px #0F003D;
+}

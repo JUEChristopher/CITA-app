@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="547.395" height="332.814" viewBox="0 0 547.395 332.814">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.01" stop-color="#0f003d"/>
+      <stop offset="0.16" stop-color="#14024c"/>
+      <stop offset="0.43" stop-color="#1b065f"/>
+      <stop offset="0.71" stop-color="#1f076a"/>
+      <stop offset="1" stop-color="#20086e"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="510.219" height="200.417" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="510.219" height="200.417" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_47" data-name="Groupe 47" transform="translate(-1205.605 -424.593)">
+    <g id="Composant_1_2" data-name="Composant 1 – 2" transform="translate(1208.295 431.765)">
+      <g id="Groupe_13" data-name="Groupe 13" transform="matrix(0.966, -0.259, 0.259, 0.966, 0, 132.054)">
+        <g id="Groupe_12" data-name="Groupe 12" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Tracé_5" data-name="Tracé 5" d="M458.181,49.059,102.407,194.878C68.174,208.91,29,196.005,9.144,163.37A123.635,123.635,0,0,1,.2,145.436a2.493,2.493,0,0,1,2.707-3.48l37.243,8.723A58.73,58.73,0,0,0,75.892,147.8L233.183,83.336,116.8,15.152a104.691,104.691,0,0,1,57.989-1.139L312.614,50.78l98.142-40.225a136.459,136.459,0,0,1,76.239-8.442c27.4,4.986,43.81,17.18-28.813,46.946" transform="translate(-0.011 -0.039)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Composant_1_1" data-name="Composant 1 – 1" transform="translate(1205.605 424.593)">
+      <g id="Groupe_13-2" data-name="Groupe 13" transform="matrix(0.966, -0.259, 0.259, 0.966, 0, 132.054)">
+        <g id="Groupe_12-2" data-name="Groupe 12" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <path id="Tracé_5-2" data-name="Tracé 5" d="M458.181,49.059,102.407,194.878C68.174,208.91,29,196.005,9.144,163.37A123.635,123.635,0,0,1,.2,145.436a2.493,2.493,0,0,1,2.707-3.48l37.243,8.723A58.73,58.73,0,0,0,75.892,147.8L233.183,83.336,116.8,15.152a104.691,104.691,0,0,1,57.989-1.139L312.614,50.78l98.142-40.225a136.459,136.459,0,0,1,76.239-8.442c27.4,4.986,43.81,17.18-28.813,46.946" transform="translate(-0.011 -0.039)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

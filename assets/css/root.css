@@ -1,0 +1,108 @@
+/* ------ Variables ------ */
+
+:root{
+    --main-gradient-color: rgb(173,211,255);
+    --main-gradient: linear-gradient(180deg, rgba(173,211,255,1) 0%, rgba(255,255,255,1) 100%);
+    --primary-color: #0F003D;
+    --secondary-color: #FFFFFF;
+}
+
+/* ------ Variables ------ */
+
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ */
+
+
+/* ------ Reset CSS ------ */
+
+*, ::before, ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* ------ Reset CSS ------ */
+
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ */
+
+
+/* ------ Classes globales ------ */
+
+.h1{
+    color: #0F003D;
+    font-family: futura-pt-bold, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 55px;
+}
+
+.h2{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 38px;
+}
+
+.h3{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.ttl_dark{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 38px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.ttl_light{
+    color: #FFFFFF;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 38px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.u_dark{
+    height: 5px;
+    width: 115px;
+    background-color: #0F003D;
+    border-radius: 32px;
+}
+
+.u_light{
+    height: 5px;
+    width: 115px;
+    background-color: #FFFFFF;
+    border-radius: 32px;
+}
+
+.p_light{
+    color: #FFFFFF;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.p_dark{
+    color: #0F003D;
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+
+/* ------ Classes globales ------ */
